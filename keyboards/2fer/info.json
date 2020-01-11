@@ -1,0 +1,15 @@
+{
+    "keyboard_name": "2fer",
+    "url": "",
+    "maintainer": "Wesley Ellis",
+    "width": 1,
+    "height": 2,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"k00", "x":0, "y":0},
+                {"label":"k01", "x":1, "y":0}
+            ]
+        }
+    }
+}
