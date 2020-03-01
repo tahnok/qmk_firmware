@@ -1,3 +1,4 @@
+
 /* Copyright 2020 Wesley Ellis
  *
  * This program is free software: you can redistribute it and/or modify
@@ -18,4 +19,4 @@
 
 // place overrides here
 
-#define COMBO_COUNT 1
+#define COMBO_COUNT 0
